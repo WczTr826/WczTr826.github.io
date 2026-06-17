@@ -4,42 +4,5 @@
     "avatarUrl":"https://avatars.githubusercontent.com/u/255541007?s=400&u=683ba55cdcc5b4a7e12b6d7461b3c2b90acb1d99&v=4",
     "GMEEK_VERSION":"last",
     "style":"<style>html{background-image:url('https://WczTr826.github.io/interlude_35.png');background-size:cover;background-attachment:fixed;background-position:center;} body,.color-bg-default{background-color:transparent !important;} .markdown-body{background-color:rgba(30,34,40,0.7) !important;backdrop-filter:blur(10px) !important;-webkit-backdrop-filter:blur(10px) !important;padding:24px !important;border-radius:12px !important;}</style>",
-    "indexStyle": "<style>
-body::before{
-  content:'';
-  position:fixed;
-  top:0;left:0;
-  width:100%;height:100%;
-  background:url('https://WczTr826.github.io/interlude_35.png') center/cover no-repeat;
-  z-index:-1;
-}
-
-body{
-  background:transparent !important;
-}
-
-/* 顶部标题 */
-h1, h2, .Header h1, .Header-title {
-  color:#fff !important;
-  text-shadow:0 2px 12px rgba(0,0,0,0.9);
-}
-
-/* 列表毛玻璃（关键兜底） */
-.Box-row,
-[class*='row'],
-[class*='Box'] {
-  background:rgba(30,34,40,0.55) !important;
-  backdrop-filter:blur(12px);
-  -webkit-backdrop-filter:blur(12px);
-  border-radius:12px;
-  border:1px solid rgba(255,255,255,0.08);
-  margin-bottom:10px;
-}
-
-/* hover效果 */
-.Box-row:hover,
-[class*='row']:hover {
-  background:rgba(30,34,40,0.75) !important;
-}
-</style>"
+    "indexStyle":"<style>body::before{content:\"\";position:fixed;top:0;left:0;width:100%;height:100%;background:url('https://WczTr826.github.io/interlude_35.png') center/cover no-repeat;z-index:-1}body{background:transparent!important}.title-left{background:rgba(20,24,30,0.55);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);padding:10px 14px;border-radius:12px;border:1px solid rgba(255,255,255,0.08)}.blogTitle{color:#fff!important;text-shadow:0 2px 10px rgba(0,0,0,0.9);-webkit-text-stroke:0.6px rgba(0,0,0,0.6);font-weight:600}.avatar{border-radius:50%;box-shadow:0 0 12px rgba(0,0,0,0.6)}</style>"
 }
